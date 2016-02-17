@@ -13,6 +13,8 @@ public class GitAux {
     public void metodoAlumno1(){
         //System.out.println("metodo 1");
         System.out.println("metodo 1"); // añadir una linea
+        System.out.println("modificado por asmae ");
+
          
     }
     
@@ -22,5 +24,8 @@ public class GitAux {
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+        //modificaciones alumno
+       System.out.println("asma inserta una linea");
+
     }
 }
