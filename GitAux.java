@@ -1,6 +1,6 @@
 /*
  * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ 
  */
 package prgitejemplo;
 
@@ -11,7 +11,9 @@ package prgitejemplo;
 public class GitAux {
     
     public void metodoAlumno1(){
-        System.out.println("metodo 1");
+        //System.out.println("metodo 1");
+        System.out.println("metodo 1"); // añadir una linea
+         
     }
     
     public void metodoAlumno2(){
